@@ -1,4 +1,5 @@
 import random
+#this is a hangman program task given by code alpha
 
 # List of words
 words = ["python", "computer", "programming", "internship", "developer"]
